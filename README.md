@@ -224,4 +224,3 @@ Through this project, I practiced:
 
 ---
 
-*This project is intended for learning and demonstration purposes. Review all infrastructure changes and security settings before deploying to a production AWS account.*
