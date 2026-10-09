@@ -64,7 +64,6 @@ It covers fundamental cloud networking concepts, infrastructure provisioning, se
 
 ```text
 aws-vpc-ec2-nginx/
-├── banner.png
 ├── .gitignore
 ├── .terraform.lock.hcl
 ├── main.tf
