@@ -1,6 +1,3 @@
-![AWS VPC and EC2 with Nginx using Terraform](banner.png)
-
-<div align="center">
 
 # AWS VPC, EC2 & Nginx using Terraform
 
